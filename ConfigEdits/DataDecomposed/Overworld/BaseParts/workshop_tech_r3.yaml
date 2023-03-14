@@ -1,0 +1,5 @@
+removed: false
+edits:
+- 'parents.priority: 10'
+- 'limit: 2'
+- 'effect.stats.0.value: 0.30'

@@ -1,0 +1,20 @@
+hidden: false
+format: 0.##
+debugAmount: 100
+priority: 5
+colorOverrideUsed: true
+colorOverride:
+  r: 1
+  g: 0.865566
+  b: 1
+  a: 1
+showCounter: true
+maxOnResupply: false
+icon: s_icon_res_comp_r3
+baseStatLimit: storage_components_r4_limit
+basePartForResupply: 
+constantLimit:
+offsetOnResupply: 
+statLinks:
+  comp4_value:
+    multiplier: 1

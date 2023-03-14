@@ -1,0 +1,12 @@
+id: Mod_Homecoming_Rarity
+ver: 0.1
+includesConfigOverrides: true
+includesConfigEdits: true
+includesLibraries: false
+includesTextures: false
+includesLocalizationEdits: false
+includesLocalizations: false
+gameVersionMin: 1.0.2
+gameVersionMax: 
+name: 'Phantom Brigade: Homecoming - Rarity Module'
+desc: I'll write it later.

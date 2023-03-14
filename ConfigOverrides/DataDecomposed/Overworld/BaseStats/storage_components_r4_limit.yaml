@@ -1,0 +1,9 @@
+group: storage
+priority: 4
+textSuffix: 
+valueStart: 4000
+valueFormat: F0
+positive: true
+min: 
+max: 
+valueMultiplierVisual: 
