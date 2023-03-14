@@ -1,0 +1,4 @@
+Deploy.bat
+exclude.txt
+mods.yaml
+.git
