@@ -1,7 +1,7 @@
 group: storage
-priority: 4
+priority: 2
 textSuffix: 
-valueStart: 40
+valueStart: 1000
 valueFormat: F0
 positive: true
 min: 
