@@ -2,7 +2,7 @@ id: Mod_Homecoming_Rarity
 ver: 0.1
 includesConfigOverrides: true
 includesConfigEdits: true
-includesLibraries: false
+includesLibraries: true
 includesTextures: false
 includesLocalizationEdits: false
 includesLocalizations: false
