@@ -1,0 +1,4 @@
+[submodule "Mod_Homecoming_Rarity_Code"]
+	path = Mod_Homecoming_Rarity_Code
+	url = ../Mod_Homecoming_Rarity_Code.git
+	branch = main
