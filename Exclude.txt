@@ -2,4 +2,5 @@ Deploy.bat
 exclude.txt
 mods.yaml
 .git
+.gitmodules
 Mod_Homecoming_Rarity_Code
