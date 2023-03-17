@@ -6,7 +6,7 @@ includesLibraries: true
 includesTextures: false
 includesLocalizationEdits: false
 includesLocalizations: false
-gameVersionMin: 1.0.2
+gameVersionMin: 1.0.1
 gameVersionMax: 
 name: 'PBH - Rarity Module'
 desc: I'll write it later.
