@@ -17,8 +17,8 @@ unlock:
 cost:
   resources:
     components_r2: 150
-    components_r3: 60
-    components_r3: 20
+    components_r3: 70
+    components_r4: 30
     supplies: 5000
 effect:
   calls: 
