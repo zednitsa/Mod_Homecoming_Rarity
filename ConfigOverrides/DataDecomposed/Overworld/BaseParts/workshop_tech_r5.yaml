@@ -1,0 +1,37 @@
+parents:
+- key: workshop_tech_r4
+  priority: 10
+  offsetStart: 0
+  offsetEnd: 0
+hidden: false
+removable: false
+preinstalled: false
+limit: 2
+ui:
+  positionX: 4
+  positionY: 7
+  endpoint: false
+  group: 
+  icon: s_icon_l32_upgrade_workshop3
+unlock: 
+cost:
+  resources:
+    components_r2: 350
+    components_r3: 140
+    components_r4: 60
+    components_r5: 1
+    supplies: 20000
+effect:
+  calls: 
+  stats:
+  - key: workshop_speed
+    modifier: Offset
+    value: 1
+  - key: workshop_jobs
+    modifier: Offset
+    value: 1
+effectPerInstance: 
+visual: 
+visualPerInstance: 
+audio:
+  onInstall: ui_upgrade_workshop
