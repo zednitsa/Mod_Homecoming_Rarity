@@ -1,0 +1,9 @@
+removed: false
+edits:
+- 'effect.stats.2.value: -0.15'
+- 'effect.stats.3.value: -0.15'
+- 'effect.stats.4.value: -0.15'
+- 'effect.stats.5: !+'
+- 'effect.stats.5.key: unit_repair_resource_limit'
+- 'effect.stats.5.modifier: Offset'
+- 'effect.stats.5.value: 50'
