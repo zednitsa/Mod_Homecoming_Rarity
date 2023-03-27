@@ -1,0 +1,31 @@
+parents:
+- key: unit_storage_l2
+  priority: -2
+  offsetStart: 0
+  offsetEnd: 20
+hidden: false
+removable: false
+preinstalled: false
+limit: 4
+ui:
+  positionX: 3
+  positionY: -7
+  endpoint: false
+  group: 
+  icon: s_icon_l32_upgrade_workshop2
+unlock: 
+cost:
+  resources:
+    supplies: 2500
+    components_r2: 100
+effect:
+  calls: 
+  stats:
+  - key: storage_components_r2_limit
+    modifier: Offset
+    value: 1000
+effectPerInstance: 
+visual: 
+visualPerInstance: 
+audio:
+  onInstall: ui_upgrade_units

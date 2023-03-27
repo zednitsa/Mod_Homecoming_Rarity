@@ -1,0 +1,32 @@
+parents:
+- key: unit_storage_l3
+  priority: -1
+  offsetStart: 20
+  offsetEnd: 0
+hidden: false
+removable: false
+preinstalled: false
+limit: 4
+ui:
+  positionX: 4
+  positionY: -6
+  endpoint: false
+  group: 
+  icon: s_icon_l32_upgrade_units6
+unlock: 
+cost:
+  resources:
+    components_r2: 75
+    components_r3: 40
+    supplies: 2000
+effect:
+  calls: 
+  stats:
+  - key: unit_repair_resource_drain
+    modifier: Multiply
+    value: 0.9
+effectPerInstance: 
+visual: 
+visualPerInstance: 
+audio:
+  onInstall: ui_upgrade_units

@@ -1,0 +1,33 @@
+parents:
+- key: unit_storage_l4
+  priority: -2
+  offsetStart: 0
+  offsetEnd: 20
+hidden: false
+removable: false
+preinstalled: false
+limit: 4
+ui:
+  positionX: 5
+  positionY: -7
+  endpoint: false
+  group: 
+  icon: icon_data_05
+unlock: 
+cost:
+  resources:
+    supplies: 2500
+    components_r2: 100
+    components_r3: 50
+    components_r4: 20
+effect:
+  calls: 
+  stats:
+  - key: storage_components_r4_limit
+    modifier: Offset
+    value: 40
+effectPerInstance: 
+visual: 
+visualPerInstance: 
+audio:
+  onInstall: ui_upgrade_units

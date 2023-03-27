@@ -1,3 +1,4 @@
 ========== Library ==========
 
 - Add salvage sounds for R5 and R6 to PlayRatingAudio
+- R5+ support in code (@WorkshopUtility; @

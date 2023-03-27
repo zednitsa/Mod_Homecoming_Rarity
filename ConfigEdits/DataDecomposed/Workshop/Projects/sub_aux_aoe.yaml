@@ -1,0 +1,6 @@
+removed: false
+edits:
+- 'inputResources.3: !+'
+- 'inputResources.3: !d'
+- 'inputResources.3.key: components_r4'
+- 'inputResources.3.amount: 1'

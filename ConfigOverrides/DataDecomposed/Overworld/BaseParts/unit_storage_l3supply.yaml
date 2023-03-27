@@ -1,34 +1,32 @@
 parents:
-- key: workshop_tech_r4
-  priority: 10
+- key: unit_storage_l3
+  priority: -2
   offsetStart: 0
-  offsetEnd: 0
+  offsetEnd: 20
 hidden: false
 removable: false
 preinstalled: false
-limit: 1
+limit: 4
 ui:
   positionX: 4
-  positionY: 7
+  positionY: -7
   endpoint: false
   group: 
   icon: s_icon_l32_upgrade_workshop3
 unlock: 
 cost:
   resources:
-    components_r2: 350
-    components_r3: 140
-    components_r4: 60
-    components_r5: 1
-    supplies: 20000
+    supplies: 2500
+    components_r2: 100
+    components_r3: 50
 effect:
   calls: 
   stats:
-  - key: workshop_speed
+  - key: storage_components_r3_limit
     modifier: Offset
-    value: 1
+    value: 200
 effectPerInstance: 
 visual: 
 visualPerInstance: 
 audio:
-  onInstall: ui_upgrade_workshop
+  onInstall: ui_upgrade_units
